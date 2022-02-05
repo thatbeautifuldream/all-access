@@ -9,3 +9,5 @@
 - Peerlist : https://peerlist.io/milind
 
 ## **Projects**
+
+- Cli Project `npx milind` : https://npmjs.com/package/milind
